@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Sean W. Makiney's Resume 916.­947.­4662  swmakiney@gmail.com
-datePublished: '2016-06-15T22:21:32.977Z'
-dateModified: '2016-06-15T22:17:03.590Z'
+datePublished: '2016-06-15T22:24:50.845Z'
+dateModified: '2016-06-15T22:24:48.136Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-15-resume-time.md
