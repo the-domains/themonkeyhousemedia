@@ -4,7 +4,7 @@
         <description><![CDATA[Sean W. Makiney and all things Monkey]]></description>
         <link>https://thegrid.ai/themonkeyhousemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 23:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 23:17:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/themonkeyhousemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ladies of Steampunk Magazine]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Wed, 15 Jun 2016 23:16:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Ladies of Steampunk Magazine]]></title>
+            <description><![CDATA[<p>Ladies of Steampunk</p>]]></description>
+            <link>https://thegrid.ai/themonkeyhousemedia/ladies-of-steampunk/index.html</link>
+            <guid isPermaLink="false">89384b77-c413-4312-bfdc-6bf798c3aa91</guid>
+            <pubDate>Wed, 15 Jun 2016 23:17:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My Resume]]></title>
             <description><![CDATA[<p>Sean W. Makiney's Resume916.­947.­4662 swmakiney@gmail.com</p>]]></description>
             <link>https://thegrid.ai/themonkeyhousemedia/resume-time/index.html</link>
             <guid isPermaLink="false">7b001208-319c-4532-9050-546389ef32cc</guid>
             <pubDate>Wed, 15 Jun 2016 23:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Ladies of Steampunk</p>]]></description>
-            <link>https://thegrid.ai/themonkeyhousemedia/ladies-of-steampunk/index.html</link>
-            <guid isPermaLink="false">89384b77-c413-4312-bfdc-6bf798c3aa91</guid>
-            <pubDate>Wed, 15 Jun 2016 23:04:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
