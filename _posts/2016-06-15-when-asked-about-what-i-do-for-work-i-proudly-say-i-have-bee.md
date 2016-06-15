@@ -9,8 +9,8 @@ description: >-
   Writer for over 20 years. I have worked for many IT companies in many
   capacities and finally found that documenting different organization's
   hardware and software needs are rewarding.
-datePublished: '2016-06-15T22:28:10.762Z'
-dateModified: '2016-06-15T22:25:57.208Z'
+datePublished: '2016-06-15T22:29:53.607Z'
+dateModified: '2016-06-15T22:28:13.374Z'
 title: ''
 author:
   - name: ''
