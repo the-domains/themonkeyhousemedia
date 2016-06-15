@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: >-
@@ -9,8 +9,8 @@ description: >-
   Writer for over 20 years. I have worked for many IT companies in many
   capacities and finally found that documenting different organization's
   hardware and software needs are rewarding.
-datePublished: '2016-06-15T22:33:42.261Z'
-dateModified: '2016-06-15T22:33:06.198Z'
+datePublished: '2016-06-15T22:46:33.510Z'
+dateModified: '2016-06-15T22:45:51.523Z'
 title: ''
 author:
   - name: ''
