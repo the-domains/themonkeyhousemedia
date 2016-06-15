@@ -8,10 +8,10 @@ description: >-
   When asked about what I do for work I proudly say I have been a Technical
   Writer for over 20 years. I have worked for many IT companies in many
   capacities and finally found that documenting different organization's
-  hardware and software needs are rewarding. 
-datePublished: '2016-06-15T21:21:06.775Z'
-dateModified: '2016-06-15T21:09:54.105Z'
-title: Sean W. Makiney
+  hardware and software needs are rewarding.
+datePublished: '2016-06-15T21:24:45.551Z'
+dateModified: '2016-06-15T21:24:28.368Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -24,10 +24,8 @@ url: when-asked-about-what-i-do-for-work-i-proudly-say-i-have-bee/index.html
 _type: Article
 
 ---
-Here's a little about me and probably more than you wanted...
-![Not as mean as Bugsy.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef61949f-9a1c-49e9-ae92-6f7420c93fe0.jpg)
-
-When asked about what I do for work I proudly say I have been a Technical Writer for over 20 years. I have worked for many IT companies in many capacities and finally found that documenting different organization's hardware and software needs are rewarding. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3254b4af-41fa-4833-81b4-47161bacf07c.jpg)
+When asked about what I do for work I proudly say I have been a Technical Writer for over 20 years. I have worked for many IT companies in many capacities and finally found that documenting different organization's hardware and software needs are rewarding.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca04336-a8d6-486b-bb40-d2dca3c8d238.jpg)
 
 However, requiring additional stimulation and outlets for creativity I have used my Radio and TV production degree as radio talk show host on terrestrial and internet radio. I have been an actor, stand-up comedian, and hosted a short-lived game show. I also have a couple of published short story novels out in the verse as well. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f321892-890d-4dba-93a0-06bd010d3549.jpg)
 
