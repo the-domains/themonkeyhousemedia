@@ -9,8 +9,8 @@ description: >-
   Writer for over 20 years. I have worked for many IT companies in many
   capacities and finally found that documenting different organization's
   hardware and software needs are rewarding.
-datePublished: '2016-06-15T21:24:45.551Z'
-dateModified: '2016-06-15T21:24:28.368Z'
+datePublished: '2016-06-15T21:26:13.880Z'
+dateModified: '2016-06-15T21:26:09.007Z'
 title: ''
 author:
   - name: ''
@@ -24,6 +24,8 @@ url: when-asked-about-what-i-do-for-work-i-proudly-say-i-have-bee/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1bfd5d0-546f-4c9f-8df7-8733d97c3a49.jpg)
+
 When asked about what I do for work I proudly say I have been a Technical Writer for over 20 years. I have worked for many IT companies in many capacities and finally found that documenting different organization's hardware and software needs are rewarding.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca04336-a8d6-486b-bb40-d2dca3c8d238.jpg)
 
