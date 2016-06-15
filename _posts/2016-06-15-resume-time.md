@@ -4,26 +4,25 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Resume Time!
-datePublished: '2016-06-15T21:40:41.377Z'
-dateModified: '2016-06-15T21:40:15.334Z'
+description: 'Resume Time! '
+datePublished: '2016-06-15T21:47:36.532Z'
+dateModified: '2016-06-15T21:47:04.034Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-15-resume-time.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-15-resume-time.md
+starred: true
 url: resume-time/index.html
 _type: Article
 
 ---
-Resume Time!
+Resume Time! 
+
+https://drive.google.com/file/d/0B\_RPYVxVjPyxZlhxOUpjcXNjSmc/view?usp=sharing
 
 Sean W. Makiney  
-12315 El Portal Way
-Rancho Cordova, CA 95742
-916­947­4662
-swmakiney@gmail.com
+12315 El Portal Way Rancho Cordova, CA 95742 916­947­4662 swmakiney@gmail.com
 
 SUMMARY  
 I am looking for a position where I can use my extensive technical writing skills and technical knowledge. I am also looking for a company that is making a positive difference in the world.
