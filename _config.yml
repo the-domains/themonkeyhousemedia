@@ -1,6 +1,6 @@
 name: The MonkeyHouse Media
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.80464
 typography_spectrum: 0.5642
 title: Sean W. Makiney
 cta:
@@ -22,8 +22,8 @@ color:
     - '#350001'
     - '#530103'
     - '#710206'
-  brandStrength: 0.40475622611120343
+  brandStrength: 0.3125
   lightness: 0.1875
-  saturation: 0.736802343511954
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
