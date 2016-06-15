@@ -9,8 +9,8 @@ description: >-
   Writer for over 20 years. I have worked for many IT companies in many
   capacities and finally found that documenting different organization's
   hardware and software needs are rewarding.
-datePublished: '2016-06-15T22:20:35.545Z'
-dateModified: '2016-06-15T22:20:24.215Z'
+datePublished: '2016-06-15T22:25:51.383Z'
+dateModified: '2016-06-15T22:25:32.736Z'
 title: ''
 author:
   - name: ''
@@ -25,7 +25,6 @@ _type: Article
 
 ---
 When asked about what I do for work I proudly say I have been a Technical Writer for over 20 years. I have worked for many IT companies in many capacities and finally found that documenting different organization's hardware and software needs are rewarding.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca04336-a8d6-486b-bb40-d2dca3c8d238.jpg)
 
 However, requiring additional stimulation and outlets for creativity I have used my Radio and TV production degree as radio talk show host on terrestrial and internet radio. I have been an actor, stand-up comedian, and hosted a short-lived game show. I also have a couple of published short story novels out in the verse as well. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f321892-890d-4dba-93a0-06bd010d3549.jpg)
 
