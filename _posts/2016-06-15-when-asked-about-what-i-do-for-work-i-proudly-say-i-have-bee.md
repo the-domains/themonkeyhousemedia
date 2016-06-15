@@ -9,8 +9,8 @@ description: >-
   Writer for over 20 years. I have worked for many IT companies in many
   capacities and finally found that documenting different organization's
   hardware and software needs are rewarding.
-datePublished: '2016-06-15T22:29:53.607Z'
-dateModified: '2016-06-15T22:28:13.374Z'
+datePublished: '2016-06-15T22:34:03.125Z'
+dateModified: '2016-06-15T22:33:53.609Z'
 title: ''
 author:
   - name: ''
@@ -24,6 +24,8 @@ url: when-asked-about-what-i-do-for-work-i-proudly-say-i-have-bee/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0316144f-444b-49f5-b9b7-cab6eabe24c2.jpg)
+
 When asked about what I do for work I proudly say I have been a Technical Writer for over 20 years. I have worked for many IT companies in many capacities and finally found that documenting different organization's hardware and software needs are rewarding.
 
 However, requiring additional stimulation and outlets for creativity I have used my Radio and TV production degree as radio talk show host on terrestrial and internet radio. I have been an actor, stand-up comedian, and hosted a short-lived game show. I also have a couple of published short story novels out in the verse as well. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f321892-890d-4dba-93a0-06bd010d3549.jpg)
