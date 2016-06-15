@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Ladies of Steampunk
-datePublished: '2016-06-15T23:04:45.307Z'
-dateModified: '2016-06-15T23:04:42.403Z'
+datePublished: '2016-06-15T23:17:06.058Z'
+dateModified: '2016-06-15T23:15:37.716Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-15-ladies-of-steampunk.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-15-ladies-of-steampunk.md
 url: ladies-of-steampunk/index.html
 _type: Article
 
