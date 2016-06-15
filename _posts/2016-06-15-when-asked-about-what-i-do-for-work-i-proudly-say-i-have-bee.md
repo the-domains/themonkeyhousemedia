@@ -10,8 +10,8 @@ description: >-
   and internet radio. I have been an actor, stand-up comedian, and hosted a
   short-lived game show. I also have a couple of published short story novels
   out in the verse as well. 
-datePublished: '2016-06-15T23:16:18.669Z'
-dateModified: '2016-06-15T23:10:22.663Z'
+datePublished: '2016-06-15T23:19:30.241Z'
+dateModified: '2016-06-15T23:19:29.091Z'
 title: ''
 author:
   - name: ''
