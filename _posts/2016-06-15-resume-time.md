@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Resume Time! '
-datePublished: '2016-06-15T21:47:36.532Z'
-dateModified: '2016-06-15T21:47:04.034Z'
+description: 'Sean W. Makiney''s Resume 916.­947.­4662  swmakiney@gmail.com '
+datePublished: '2016-06-15T21:55:30.806Z'
+dateModified: '2016-06-15T21:50:26.751Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-15-resume-time.md
@@ -17,12 +17,9 @@ url: resume-time/index.html
 _type: Article
 
 ---
-Resume Time! 
-
-https://drive.google.com/file/d/0B\_RPYVxVjPyxZlhxOUpjcXNjSmc/view?usp=sharing
-
-Sean W. Makiney  
-12315 El Portal Way Rancho Cordova, CA 95742 916­947­4662 swmakiney@gmail.com
+Sean W. Makiney's Resume  
+916.­947.­4662   
+swmakiney@gmail.com
 
 SUMMARY  
 I am looking for a position where I can use my extensive technical writing skills and technical knowledge. I am also looking for a company that is making a positive difference in the world.
@@ -94,4 +91,6 @@ As a member of a technical communications team, I developed and presented traini
 
 EDUCATION
 
-Associate of Arts degree in Radio and Television Broadcasting, Cosumnes River Junior College
+Associate of Arts degree in Radio and Television Broadcasting, Cosumnes River Junior College 
+
+Would you like a copy? Click the Google Docs link: https://drive.google.com/file/d/0B\_RPYVxVjPyxZlhxOUpjcXNjSmc/view?usp=sharing
