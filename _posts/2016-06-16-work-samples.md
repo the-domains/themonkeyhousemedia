@@ -5,19 +5,22 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Active Defense User's Guide
-datePublished: '2016-06-16T17:23:57.901Z'
-dateModified: '2016-06-16T17:23:52.596Z'
+datePublished: '2016-06-16T21:04:47.884Z'
+dateModified: '2016-06-16T20:54:42.815Z'
 title: Work Samples
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-16-work-samples.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: work-samples/index.html
 _type: Article
 
 ---
 # Work Samples
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15ef7085-3227-49fe-90fd-f234eada9d28.jpg)
 
 ## IT
 
@@ -42,9 +45,6 @@ _type: Article
 [][7]
 
 [Belegana: Raison D'Etre][8]
-
-  
-
 
 [0]: https://drive.google.com/file/d/0B_RPYVxVjPyxeGJQSmVSQ3NLVmc/view?usp=sharing
 [1]: https://drive.google.com/file/d/0B_RPYVxVjPyxNm9zSi16bGRVSlk/view?usp=sharing
