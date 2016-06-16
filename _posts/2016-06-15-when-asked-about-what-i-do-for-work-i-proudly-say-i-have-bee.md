@@ -5,13 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  However, requiring additional stimulation and outlets for creativity I have
-  used my Radio and TV production degree as radio talk show host on terrestrial
-  and internet radio. I have been an actor, stand-up comedian, and hosted a
-  short-lived game show. I also have a couple of published short story novels
-  out in the verse as well. 
-datePublished: '2016-06-15T23:19:30.241Z'
-dateModified: '2016-06-15T23:19:29.091Z'
+  However, requiring additional creative outlets I have used my Radio and TV
+  production degree as radio talk show host on terrestrial and internet radio. I
+  have been an actor, stand-up comedian, and hosted a short-lived game show. I
+  also have a couple of published short story novels out in the verse as well. 
+datePublished: '2016-06-16T18:52:46.496Z'
+dateModified: '2016-06-16T18:48:50.576Z'
 title: ''
 author:
   - name: ''
@@ -29,7 +28,7 @@ _type: Article
 
 When asked about what I do for work I proudly say I have been a Technical Writer for over 20 years. I have worked for many IT companies in many capacities and finally found that documenting different organization's hardware and software needs are rewarding.
 
-However, requiring additional stimulation and outlets for creativity I have used my Radio and TV production degree as radio talk show host on terrestrial and internet radio. I have been an actor, stand-up comedian, and hosted a short-lived game show. I also have a couple of published short story novels out in the verse as well. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f321892-890d-4dba-93a0-06bd010d3549.jpg)
+However, requiring additional creative outlets I have used my Radio and TV production degree as radio talk show host on terrestrial and internet radio. I have been an actor, stand-up comedian, and hosted a short-lived game show. I also have a couple of published short story novels out in the verse as well. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f321892-890d-4dba-93a0-06bd010d3549.jpg)
 
 For five years, ending in 2015, I produced a steampunk magazine (www.ladiesofsteampunk.com). Editor in Chief duties aside it was pretty much a one-person production taking care of interviews, articles, sales, advertising, marketing, and design. I have handed over the project of publication to one of my close friends and as such am taking the time to relax from the grueling additional 40+ hours a week it took to make it work. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a435548-8f53-47e7-ac9e-021ab8599aa4.jpg)
 
