@@ -4,15 +4,15 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Sean W. Makiney's Resume916.­947.­4662 swmakiney@gmail.com
-datePublished: '2016-06-15T23:06:10.228Z'
-dateModified: '2016-06-15T22:49:19.654Z'
+description: Sean W. Makiney's Resume 916.­947.­4662  swmakiney@gmail.com
+datePublished: '2016-06-16T18:51:58.744Z'
+dateModified: '2016-06-16T18:51:33.271Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-15-resume-time.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: resume-time/index.html
 _type: Article
 
