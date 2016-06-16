@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Active Defense User''s Guide '
-datePublished: '2016-06-16T16:56:38.187Z'
-dateModified: '2016-06-16T16:55:42.287Z'
+description: Active Defense User's Guide
+datePublished: '2016-06-16T17:00:54.739Z'
+dateModified: '2016-06-16T17:00:36.598Z'
 title: Work Samples
 author: []
 sourcePath: _posts/2016-06-16-work-samples.md
@@ -29,7 +29,7 @@ _type: Article
 
 [DDNA for Python][2]
 
-[Sentinel][3]
+[Sentinel Operations Guide][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f76e727-ae70-473a-bb4b-316c2998120e.jpg)
 
 ## Magazines
