@@ -4,15 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Active Defense
-datePublished: '2016-06-16T16:45:06.627Z'
-dateModified: '2016-06-16T16:42:13.191Z'
+description: 'Active Defense User''s Guide '
+datePublished: '2016-06-16T16:56:38.187Z'
+dateModified: '2016-06-16T16:55:42.287Z'
 title: Work Samples
 author: []
+sourcePath: _posts/2016-06-16-work-samples.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-16-work-samples.md
 url: work-samples/index.html
 _type: Article
 
@@ -20,15 +20,17 @@ _type: Article
 # Work Samples
 
 ## IT
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0b7ebe2-7fad-4298-afe4-a1ba687d297f.jpg)
 
-[Active Defense][0]
+[Active Defense User's Guide][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24cfd781-ca50-4bf0-87ec-7a8c2162f82d.jpg)
 
-[Responder Pro][1]
+[Responder Pro User's Guide][1]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69fc98fa-4f09-4364-9133-be8b2c757cfc.jpg)
 
 [DDNA for Python][2]
 
 [Sentinel][3]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f76e727-ae70-473a-bb4b-316c2998120e.jpg)
 
 ## Magazines
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66d881c4-cd2c-4ad4-bae5-c81006090a79.png)
