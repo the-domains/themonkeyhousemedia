@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -9,8 +9,8 @@ description: >-
   production degree as radio talk show host on terrestrial and internet radio. I
   have been an actor, stand-up comedian, and hosted a short-lived game show. I
   also have a couple of published short story novels out in the verse as well. 
-datePublished: '2016-06-16T18:52:46.496Z'
-dateModified: '2016-06-16T18:48:50.576Z'
+datePublished: '2016-06-16T19:17:58.346Z'
+dateModified: '2016-06-16T19:17:47.600Z'
 title: ''
 author:
   - name: ''
