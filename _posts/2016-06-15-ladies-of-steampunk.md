@@ -1,14 +1,20 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: Ladies of Steampunk
-datePublished: '2016-06-15T23:17:06.058Z'
-dateModified: '2016-06-15T23:15:37.716Z'
-title: ''
-author: []
+description: >-
+  The Ladies of Steampunk Magazine was a passion project that I put almost all
+  of my freetime into. I loved the community, writing, and exploring the
+  Steampunk world. I wrote about makers, builders, tinkerers, movies, games, and
+  music... a lot of musicians jumped on the genre.
+datePublished: '2016-06-17T22:55:56.652Z'
+dateModified: '2016-06-17T22:55:55.932Z'
+title: Ladies of Steampunk
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-15-ladies-of-steampunk.md
 authors: []
 publisher: null
@@ -17,7 +23,7 @@ url: ladies-of-steampunk/index.html
 _type: Article
 
 ---
-Ladies of Steampunk
+# Ladies of Steampunk
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2d052aa-7421-48bc-adb2-98679525f54c.jpg)
 
 The Ladies of Steampunk Magazine was a passion project that I put almost all of my freetime into. I loved the community, writing, and exploring the Steampunk world. I wrote about makers, builders, tinkerers, movies, games, and music... a lot of musicians jumped on the genre.
